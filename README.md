@@ -1,8 +1,8 @@
 
 ___
 
-# This is our Group 7 Project. Made by :
-Ethan, Constantine, Euan
+# This is our Project. Made by group 7 :
+Ethan Bowles, Constantine Linardakis, Euan Lamprecht
 
 <dl>
   <dt>  </dt>
