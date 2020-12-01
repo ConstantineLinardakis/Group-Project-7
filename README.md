@@ -1,4 +1,4 @@
-![Screenshot](thumbnail.png)
+<img src="https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/thumbnail.png" alt="My cool logo"/>
 ___
 
 # This is our Project. Made by group 7 :
