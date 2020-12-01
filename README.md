@@ -5,7 +5,7 @@ ___
 Ethan, Constantine, Euan
 
 <dl>
-  <dt>HTML & CSS </dt>
+  <dt>  </dt>
 </dl>
 
 ___
