@@ -1,5 +1,4 @@
 ![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/thumbnail.png)
-<img src="https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/thumbnail.png" alt="thing" width="200" height="200">
 ___
 
 # This is our Project. Made by group 7 :
