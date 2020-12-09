@@ -1,7 +1,7 @@
 ![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/background.png)
 ___
 
-# This is our Project. Made by group 7 :
+# Launchpad
 Ethan Bowles, Constantine Linardakis, Euan Lamprecht
 
 <dl>
