@@ -20,6 +20,5 @@ ___
 ___
 
 ## Class Diagrams
-
-
+![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/LaunchPadClassDiagram.png)
 ___
