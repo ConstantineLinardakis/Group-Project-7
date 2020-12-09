@@ -12,8 +12,10 @@ ___
 
 ## Documentation
 12.1 - Creating The Repo
+
 12.3 - Creating the GFX
-12.9 - Creating Java Files / Launchpad GFX Files
+
+12.9 - Creating Java Files / Launchpad GFX Files / Class Diagrams
 
 ___
 
