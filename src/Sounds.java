@@ -11,12 +11,11 @@ public class Sounds {
      public void run() {
        try {
           Clip clip = AudioSystem.getClip();
-          AudioInputStream inputStream = AudioSystem.getAudioInputStream(
-          Main.class.getResourceAsStream("/path/to/sounds/" + url));
-        clip.open(inputStream);
-        clip.start(); 
+          AudioInputStream inputStream = AudioSystem.getAudioInputStream(Main.class.getResourceAsStream("/path/to/sounds/" + url));
+          clip.open(inputStream);
+          clip.start(); 
         } catch (Exception e) {
-        System.err.println(e.getMessage());
+          System.err.println(e.getMessage());
         }
      }
    }).start();
