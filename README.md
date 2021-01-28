@@ -17,6 +17,14 @@ ___
 
 12.9 - Creating Java Files / Launchpad GFX Files / Class Diagrams
 
+1.22.21 - Creating JFrame / Launchpad Play,Exit
+
+1.26.21 - Adding Color Change Button
+
+1.27.21 - Adding Sounds / Sound Player
+
+1.28.21 - Adding Loop Button / Stop Button
+
 ___
 
 ## Class Diagrams
