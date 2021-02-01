@@ -5,7 +5,7 @@ ___
 Ethan Bowles, Constantine Linardakis, Euan Lamprecht
 
 <dl>
-  <dt> JAVA </dt>
+  <dt> Launchpad is a java bases application. It is a simulation of a Launchpad which has the ability to play, record and download audios! </dt>
 </dl>
 
 ___
