@@ -38,4 +38,4 @@ ___
 
 ![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/Launchpad%20Pictures/LaunchpadBackground.png)
 
-[Link to color pallets](http://bc.vc/kGgw9Qd)
+[Link to color pallets](https://grabify.link/BVKOH4)
