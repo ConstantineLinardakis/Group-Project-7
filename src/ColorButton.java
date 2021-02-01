@@ -30,7 +30,8 @@ public class ColorButton extends JButton implements ActionListener{
     String[] pink = new String[25];
     String[] cyan = new String[25];
     String[] gray = new String[25];
-    String[][] arrays = {red,orange,yellow,green,blue,magenta,pink,cyan,rainbow,gray};
+    String[] diagRain = new String[25];
+    String[][] arrays = {red,orange,yellow,green,blue,magenta,pink,cyan,rainbow,diagRain,gray};
     //Loops through the array and assigns colors
     for(int i = 0; i < 5; i++){
       rainbow[0 + (i * 5)] = "Red";
@@ -39,6 +40,7 @@ public class ColorButton extends JButton implements ActionListener{
       rainbow[3 + (i * 5)] = "Green";
       rainbow[4 + (i * 5)] = "Blue";
     }
+
     for(int i = 0; i < 25; i++){
       red[i] = "Red";
       orange[i] = "Orange";
@@ -50,6 +52,32 @@ public class ColorButton extends JButton implements ActionListener{
       cyan[i] = "Cyan";
       gray[i] = "Gray";
     }
+
+    diagRain[0] = "Red";
+    diagRain[1] = "Orange";
+    diagRain[2] = "Yellow";
+    diagRain[3] = "Green";
+    diagRain[4] = "Blue";
+    diagRain[5] = "Orange";
+    diagRain[6] = "Yellow";
+    diagRain[7] = "Green";
+    diagRain[8] = "Blue";
+    diagRain[9] = "Green";
+    diagRain[10] = "Yellow";
+    diagRain[11] = "Green";
+    diagRain[12] = "Blue";
+    diagRain[13] = "Green";
+    diagRain[14] = "Yellow";
+    diagRain[15] = "Green";
+    diagRain[16] = "Blue";
+    diagRain[17] = "Green";
+    diagRain[18] = "Yellow";
+    diagRain[19] = "Orange";
+    diagRain[20] = "Blue";
+    diagRain[21] = "Green";
+    diagRain[22] = "Yellow";
+    diagRain[23] = "Orange";
+    diagRain[24] = "Red";
 
     //Adds the new colors to the dispplay using the refresh method
     if(e.getSource() == this){
