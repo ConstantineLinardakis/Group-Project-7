@@ -25,6 +25,8 @@ ___
 
 1.28.21 - Adding Loop Button / Stop Button
 
+2.1.21 - Fixing UML Diagrams
+
 ___
 
 ## Class Diagrams
@@ -33,6 +35,6 @@ ___
 
 ## User Interface
 
-![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/Launchpad%20Pictures/LaunchpadBackground.png)
+![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/LaunchPad.png)
 
 Link to color pallets - https://github.com/ConstantineLinardakis/Group-Project-7/tree/main/CONTENTS/Launchpad%20Pictures 
