@@ -9,7 +9,6 @@ Ethan Bowles, Constantine Linardakis, Euan Lamprecht
 </dl>
 
 ___
-___
 
 ## Documentation
 12.1 - Creating The Repo
