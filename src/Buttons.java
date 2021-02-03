@@ -108,4 +108,3 @@ public class Buttons extends JButton implements ActionListener{
     }
   }
 }
-
