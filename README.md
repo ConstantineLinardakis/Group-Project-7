@@ -2,7 +2,7 @@
 ___
 
 # Launchpad
-Ethan Bowles (Java/Button File Manager) , Constantine Linardakis (Graphics/Github Manager), Euan Lamprecht (Sound Manager)
+Ethan Bowles [Java/Button File Manager](https://github.com/ConstantineLinardakis/Group-Project-7/tree/main/src) , Constantine Linardakis [Graphics/Github Manager](https://github.com/ConstantineLinardakis/Group-Project-7/tree/main/CONTENTS), Euan Lamprecht [Sound Manager](https://github.com/ConstantineLinardakis/Group-Project-7/tree/main/CONTENTS/Sounds)
 
 <dl>
   <dt> Launchpad is a java based application. It is a simulation of a Launchpad which has the ability to play, record and download audios! </dt>
