@@ -46,9 +46,4 @@ ___
 
 ![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/Launchpad%20Pictures/LaunchpadBackground.png)
 
-[Link to color pallets](https://grabify.link/BVKOH4)
-
-<!--- Track @ https://grabify.link/track/FXVDNC --->
-
-<!--- https://classic.minecraft.net/?join=7Ta-dAWlUqDN-6Wo --->
 
