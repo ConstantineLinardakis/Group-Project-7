@@ -8,6 +8,8 @@ Ethan Bowles (Java File Manager) , Constantine Linardakis (Graphics & Button Hel
   <dt> Launchpad is a java based application. It is a simulation of a Launchpad which has the ability to play, record and download audios! </dt>
 </dl>
 
+___
+
 ### Download
 Feel free to click -> [Zip File](https://github.com/ConstantineLinardakis/Group-Project-7/archive/refs/heads/main.zip)
 > After install make sure to open the zip, and export somewhere you can access. Then run the file in terminal, or any available Code Executor.
@@ -29,6 +31,8 @@ ___
 1.28.21 - Adding Loop Button / Stop Button
 
 2.1.21 - Fixing UML Diagrams
+
+4.6.21 - Updating Read Me
 
 ___
 
