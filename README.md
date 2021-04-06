@@ -2,7 +2,7 @@
 ___
 
 # Launchpad
-Ethan Bowles, Constantine Linardakis, Euan Lamprecht
+Ethan Bowles (Java File Manager) , Constantine Linardakis (Graphics & Button Helper), Euan Lamprecht (Sound Manager)
 
 <dl>
   <dt> Launchpad is a java based application. It is a simulation of a Launchpad which has the ability to play, record and download audios! </dt>
