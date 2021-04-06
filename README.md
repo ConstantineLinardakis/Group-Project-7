@@ -8,7 +8,7 @@ Ethan Bowles [Java/Button File Manager](https://github.com/ConstantineLinardakis
   <dt> Launchpad is a java based application. It is a simulation of a Launchpad which has the ability to play, record and download audios! </dt>
 </dl>
 
-Our Launchpad consist of a variety of sounds, and a few buttons like; Pause, Record, Loop, and a Color Changing Button.
+Our Launchpad consist of a variety of sounds, and a few buttons like; Pause, Record, Loop, and a Color Changing Buttons.
 
 ___
 
