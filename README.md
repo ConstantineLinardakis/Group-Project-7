@@ -38,6 +38,10 @@ ___
 
 4.6.21 - Updating Read Me
 
+5.15.21 - Fixed Stop Button
+
+5.20.21 - Debugged Launchpad
+
 ___
 
 ## Class Diagrams
