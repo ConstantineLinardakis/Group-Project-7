@@ -72,6 +72,7 @@ public class Launchpad extends Thread{
   public void run() {
     while(true){
       boolean loop = LoopButton.loop;
+      System.out.print("");
       if(StopButton.stop == true){
         int count = 0;
         for(Clip clip : Buttons.list){

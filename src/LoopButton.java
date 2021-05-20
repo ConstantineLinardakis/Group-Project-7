@@ -16,6 +16,7 @@ public class LoopButton extends JButton implements ActionListener{
   public void actionPerformed(ActionEvent e){
     if(e.getSource() == this){
       if(loop == false){
+        System.out.println("Y");
         loop = true;
       }else{
         loop = false;
