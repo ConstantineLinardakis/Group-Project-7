@@ -15,10 +15,10 @@ public class LoopButton extends JButton implements ActionListener{
   @Override
   public void actionPerformed(ActionEvent e){
     if(e.getSource() == this){
-      if(loop == true){
-        loop = false;
-      }else{
+      if(loop == false){
         loop = true;
+      }else{
+        loop = false;
       }
     }
   }

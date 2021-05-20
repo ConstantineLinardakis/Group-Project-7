@@ -12,6 +12,8 @@ public class Buttons extends JButton implements ActionListener{
   private int locX = 0;
   private int locY = 0;
 
+  public static ArrayList<Clip> list = new ArrayList<Clip>();
+
   //Sets the basic features of the buttons and adds an action listener
   public Buttons(String title){
     super(title);
@@ -72,7 +74,8 @@ public class Buttons extends JButton implements ActionListener{
       clip.open(audioIn);
       clip.start();
       if(loop == true){
-        clip.loop(Clip.LOOP_CONTINUOUSLY);
+        list.add(clip);
+        // clip.loop(Clip.LOOP_CONTINUOUSLY);
       }
       if(stop == true){
         stopSound(clip);
@@ -103,8 +106,6 @@ public class Buttons extends JButton implements ActionListener{
       System.out.println(num);
       boolean fullStop = StopButton.stop;
       playSound(names[num - 1], LoopButton.loop, fullStop);
-      StopButton.stop = false;
-      LoopButton.loop = false;
     }
   }
 }

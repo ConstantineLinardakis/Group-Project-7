@@ -16,6 +16,8 @@ public class ColorButton extends JButton implements ActionListener{
     addActionListener(this);
   }
 
+  private String[][] arrays;
+  private int colorCount = 0;
   //Actino Listener - Changes the colors of the buttons using arrays of colors
   @Override
   public void actionPerformed(ActionEvent e){
@@ -81,8 +83,19 @@ public class ColorButton extends JButton implements ActionListener{
 
     //Adds the new colors to the dispplay using the refresh method
     if(e.getSource() == this){
-      Launchpad pad = new Launchpad();
-      pad.refresh(arrays);
+      String[][] color = arrays;
+      for(int i = 0; i < 5; i++){
+        for(int j = 0; j < 5; j++){
+          //Sets the colors of the buttons to the next array in the 2 dimentional array
+          Launchpad.btns[i][j].setColors(color[colorCount][j + (i*5)], color[colorCount][j + (i*5)]);
+        }
+      }
+      //Keeps track of which color array is being used
+      colorCount++;
+      if(colorCount > 10){
+        colorCount = 0;
+      }
+
     }
   }
 }

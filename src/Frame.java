@@ -11,5 +11,6 @@ public class Frame extends JFrame{
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     getContentPane().setLayout(null);
     getContentPane().setBackground(Color.BLACK);
+    requestFocus();
   }
 }
