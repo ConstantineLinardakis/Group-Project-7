@@ -100,7 +100,7 @@ public class Buttons extends JButton implements ActionListener{
     if(e.getSource() == this){
       String sNum = this.getText();
       int num = Integer.parseInt(sNum);
-      final File folder = new File("/Users/ethanbowles/Desktop/idk/programing/java/Launchpad/soundFiles");
+      final File folder = new File("soundFiles");
       String[] names =listFilesForFolder(folder);
       System.out.println(names[num - 1]);
       System.out.println(num);
